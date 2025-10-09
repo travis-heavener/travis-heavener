@@ -23,7 +23,7 @@
 
 ###
 
-## 🔥 My Languages
+## 🔥 Languages & Software
 
 ###
 
