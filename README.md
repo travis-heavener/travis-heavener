@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">My name is Travis Heavener and I am a full stack web developer and hobby programmer.<br><br>- 🔭 I’m currently working on <a href="https://github.com/travis-heavener/mercury" target="_blank">Mercury</a><br>- 🌱 I’m currently working on a custom Python SSG<br>- 🛠️ My go-to language is JavaScript<br>- ⚡ Fun fact: I am red-green colorblind</p>
+<p align="left">My name is Travis Heavener and I am a full stack web developer and hobby programmer.<br><br>- 🔭 I’m currently working on <a href="https://github.com/travis-heavener/mercury" target="_blank">Mercury</a><br>- 🌱 I’m currently learning network programming<br>- 🛠️ My go-to language is JavaScript<br>- ⚡ Fun fact: I am red-green colorblind</p>
 
 ###
 
